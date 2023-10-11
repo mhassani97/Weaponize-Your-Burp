@@ -27,14 +27,14 @@
     Which: Replace All
     Regex Match: Enabled
     ```
-  
-    ```
-    Type: Request Param Value
+  ```
+ Type: Request Param Value
     Match: .*
     Replace:  <%= 2548*70 %>
     Which: Replace All
     Regex Match: Enabled
-    ```
+    ``` 
+  
 
     And Your Custom Payloads
 1) Logger++ Filter For AutoRepeater Response of SSTI Payload
